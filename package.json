@@ -1,0 +1,31 @@
+{
+  "name": "selax",
+  "version": "0.0.1",
+  "description": "A library for streaming XML nodes matched with CSS3 selectors",
+  "private": false,
+  "engines": {
+    "node": ">= 0.8.14",
+    "npm": "1.1.x"
+  },
+  "main": "main",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Maciek416/selax.git"
+  },
+  "devDependencies": {
+    "mocha": ">= 1.9.0",
+    "should": ">= 1.2.2"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "dependencies": {
+    "cssauron": "1.0.0",
+    "libxmljs": "0.8.1"
+  },
+  "keywords": [
+    "xml","css3","sax"
+  ],
+  "author": "Maciej Adwent (http://github.com/Maciek416)",
+  "license": "BSD"
+}

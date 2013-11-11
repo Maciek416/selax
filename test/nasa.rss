@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>NASA Breaking News</title>
+ <description>A RSS news feed containing the latest NASA news articles and press releases.</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/breaking_news.rss" />
+ <language>en-us</language>
+ <managingEditor>jim.wilson@nasa.gov</managingEditor>
+ <webMaster>brian.dunbar@nasa.gov</webMaster>
+ <docs>http://blogs.harvard.edu/tech/rss</docs>
+ <item> <title>NASA Administrator Bolden to Hail Success of Commercial Cargo Program</title>
+ <link>http://www.nasa.gov/press/2013/november/nasa-administrator-bolden-to-hail-success-of-commercial-cargo-program</link>
+ <description>NASA Administrator Charles Bolden will discuss the success of the agency&#039;s Commercial Orbital Transportation Services (COTS) initiative during a televised news briefing at 11:30 a.m. EST Wednesday, Nov. 13.</description>
+ <guid isPermaLink="false">http://www.nasa.gov/press/2013/november/nasa-administrator-bolden-to-hail-success-of-commercial-cargo-program</guid>
+ <pubDate>Fri, 08 Nov 2013 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+</item>
+ <item> <title>Study Finds Climate Link to &#039;Atmospheric River&#039; Storms</title>
+ <link>http://www.nasa.gov/press/2013/november/study-finds-climate-link-to-atmospheric-river-storms</link>
+ <description>A new NASA-led study of &quot;atmospheric river&quot; storms from the Pacific Ocean may help scientists better predict major winter snowfalls that hit West Coast mountains and lead to heavy spring runoff and sometimes flooding.</description>
+ <guid isPermaLink="false">http://www.nasa.gov/press/2013/november/study-finds-climate-link-to-atmospheric-river-storms</guid>
+ <pubDate>Fri, 08 Nov 2013 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+</item>
+ <item> <title>NASA Sets MAVEN/Atlas V Launch Events Coverage</title>
+ <link>http://www.nasa.gov/press/2013/november/nasa-sets-mavenatlas-v-launch-events-coverage</link>
+ <description>NASA&#039;s next Mars-bound spacecraft, the Mars Atmosphere and Volatile Evolution (MAVEN), is set to launch aboard a United Launch Alliance Atlas V 401 rocket Monday, Nov. 18.</description>
+ <guid isPermaLink="false">http://www.nasa.gov/press/2013/november/nasa-sets-mavenatlas-v-launch-events-coverage</guid>
+ <pubDate>Fri, 08 Nov 2013 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+</item>
+ <item> <title>NASA&#039;s Orion Sees Flawless Fairing Separation in Second Test</title>
+ <link>http://www.nasa.gov/press/2013/november/nasas-orion-sees-flawless-fairing-separation-in-second-test</link>
+ <description>The three massive panels protecting a test version of NASA&#039;s Orion multipurpose crew vehicle successfully fell away from the spacecraft Wednesday in a test of a system that will protect Orion during its first trip to space next year.</description>
+ <guid isPermaLink="false">http://www.nasa.gov/press/2013/november/nasas-orion-sees-flawless-fairing-separation-in-second-test</guid>
+ <pubDate>Thu, 07 Nov 2013 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+</item>
+ <item> <title>NASA TV to Air Russian Spacewalk Featuring the Olympic Torch</title>
+ <link>http://www.nasa.gov/press/2013/november/nasa-tv-to-air-russian-spacewalk-featuring-the-olympic-torch</link>
+ <description>Two Russian cosmonauts will carry the Olympic torch when they venture outside the International Space Station Saturday, Nov. 9, for a six-hour spacewalk to perform maintenance work on the orbiting laboratory.</description>
+ <guid isPermaLink="false">http://www.nasa.gov/press/2013/november/nasa-tv-to-air-russian-spacewalk-featuring-the-olympic-torch</guid>
+ <pubDate>Thu, 07 Nov 2013 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+</item>
+ <item> <title>NASA Opens Media Accreditation for December Orbital Sciences Cargo Resupply Mission to International Space Station</title>
+ <link>http://www.nasa.gov/press/2013/november/nasa-opens-media-accreditation-for-december-orbital-sciences-cargo-resupply</link>
+ <description>Media accreditation is open for the launch of the first contracted cargo resupply mission to the International Space Station from Virginia.</description>
+ <guid isPermaLink="false">http://www.nasa.gov/press/2013/november/nasa-opens-media-accreditation-for-december-orbital-sciences-cargo-resupply</guid>
+ <pubDate>Thu, 07 Nov 2013 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+</item>
+ <item> <title>NASA&#039;s Hubble Sees Asteroid Spouting Six Comet-Like Tails</title>
+ <link>http://www.nasa.gov/press/2013/november/nasas-hubble-sees-asteroid-spouting-six-comet-like-tails</link>
+ <description>Astronomers viewing our solar system&#039;s asteroid belt with NASA&#039;s Hubble Space Telescope have seen for the first time an asteroid with six comet-like tails of dust radiating from it like spokes on a wheel.</description>
+ <guid isPermaLink="false">http://www.nasa.gov/press/2013/november/nasas-hubble-sees-asteroid-spouting-six-comet-like-tails</guid>
+ <pubDate>Thu, 07 Nov 2013 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+</item>
+ <item> <title>New Crew Launches to Space Station with Olympic Torch Aboard</title>
+ <link>http://www.nasa.gov/press/2013/november/new-crew-launches-to-space-station-with-olympic-torch-aboard</link>
+ <description>Three crew members representing the United States, Russia and Japan are on their way to the International Space Station after launching from the Baikonur Cosmodrome in Kazakhstan at 11:14 p.m. EST Wednesday, 10:14 a.m. Nov. 7, Kazakh time.</description>
+ <guid isPermaLink="false">http://www.nasa.gov/press/2013/november/new-crew-launches-to-space-station-with-olympic-torch-aboard</guid>
+ <pubDate>Wed, 06 Nov 2013 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+</item>
+ <item> <title>NASA and International Researchers Obtain Crucial Data from Meteoroid Impact</title>
+ <link>http://www.nasa.gov/press/2013/november/nasa-and-international-researchers-obtain-crucial-data-from-meteoroid-impact</link>
+ <description>A team of NASA and international scientists for the first time have gathered a detailed understanding of the effects on Earth from a small asteroid impact.</description>
+ <guid isPermaLink="false">http://www.nasa.gov/press/2013/november/nasa-and-international-researchers-obtain-crucial-data-from-meteoroid-impact</guid>
+ <pubDate>Wed, 06 Nov 2013 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+</item>
+ <item> <title>NASA, Bigelow Aerospace to Hold Media Availability</title>
+ <link>http://www.nasa.gov/press/2013/november/nasa-bigelow-aerospace-to-hold-media-availability</link>
+ <description>Representatives of NASA and Bigelow Aerospace will discuss the North Las Vegas, Nev., company&#039;s completed and upcoming projects for the agency in a media availability Tuesday, Nov. 12, in Washington.</description>
+ <guid isPermaLink="false">http://www.nasa.gov/press/2013/november/nasa-bigelow-aerospace-to-hold-media-availability</guid>
+ <pubDate>Wed, 06 Nov 2013 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+</item>
+</channel>
+</rss>
