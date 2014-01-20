@@ -7,6 +7,9 @@ A library for streaming XML nodes matched with CSS3 selectors.
 
 Selax implements node's `stream.Transform`, which means you can use it to `pipe()` data directly from a source like a file read stream, as well as listen to events like `readable` and `end`.
 
+Example
+-------
+
 ```javascript
 
 // Stream temperature nodes from a met.no RSS weather data document (see: http://api.met.no/weatherapi/documentation )
@@ -31,3 +34,8 @@ ax.on('end', function(){
 });
 
 ```
+
+Notes
+-----
+
+Selax is based on libxml2 and emits node objects as plain Javascript objects. Nodes have a `type`, `name`, a `children` array and an `attr(name)` function for reading attributes.
