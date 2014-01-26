@@ -3,9 +3,7 @@ Selax
 
 [![NPM](https://nodei.co/npm/selax.png)](https://nodei.co/npm/selax/)
 
-A library for streaming XML nodes matched with CSS3 selectors.
-
-Selax implements node's `stream.Transform`, which means you can use it to `pipe()` data directly from a source like a file read stream, as well as listen to events like `readable` and `end`.
+A module for streaming XML nodes matched with CSS3 selectors using a `through` stream. Pipe XML data directly out of a file or network connection into Selax and capture the nodes you want with a CSS3 selector pattern.
 
 Example
 -------
@@ -15,9 +13,9 @@ Example
 // Stream temperature nodes from a met.no RSS weather data document (see: http://api.met.no/weatherapi/documentation )
 
 var source = fs.createReadStream('weatherdata.rss');
-var Selax = require('selax');
+var selax = require('selax');
 
-var ax = new Selax('weatherdata time:first-child temperature');
+var ax = selax('weatherdata time:first-child temperature');
 
 source.pipe(ax);
 
@@ -38,4 +36,4 @@ ax.on('end', function(){
 Notes
 -----
 
-Selax is based on libxml2 and emits node objects as plain Javascript objects. Nodes have a `type`, `name`, a `children` array and an `attr(name)` function for reading attributes.
+Selax is based on `libxml2js` and emits node objects as plain Javascript objects. Nodes have a `type`, `name`, a `children` array and an `attr(name)` function for reading attributes.
