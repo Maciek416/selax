@@ -19,15 +19,15 @@ var ax = selax('weatherdata time:first-child temperature');
 
 source.pipe(ax);
 
-ax.on('readable', function(){
+ax.on('readable', function() {
   var node;
 
-  while(node = ax.read()){
+  while(node = ax.read()) {
     console.log('Found matching temperature node: ', node);
   }
 });
 
-ax.on('end', function(){
+ax.on('end', function() {
   console.log('Finished selecting temperature nodes');
 });
 
